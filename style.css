@@ -1,0 +1,54 @@
+.selfpicture {
+	width: 160px;
+	height: auto;
+}
+
+.image-circle {
+	border-radius: 50%;
+}
+
+#image-portion {
+	text-align: center;
+}
+
+body {
+	padding-top: 100px;
+}
+
+* {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1 {
+	font-size: 60px;
+	color: white;
+}
+
+p {
+	font-size: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+	color: lightgrey;
+}
+
+html { 
+	background: url(intro-bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+a:link, a:visited {
+    background-color: lightgrey;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: grey;
+}
