@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Community Bonding Period
+title: "GSoC'19: Community Bonding Period"
 featured: true
 tags: [gsoc]
 image: '/images/posts/cb.png'

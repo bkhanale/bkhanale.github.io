@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GSoC’19: Coding Phase 1 begins'
+title: "GSoC’19: Coding Phase 1 begins"
 featured: true
 tags: [gsoc]
 ---
