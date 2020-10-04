@@ -5,12 +5,12 @@ googleAnalytics = "UA-165070744-1"
 
 [params]
     author = "Bhushan Khanale"
-    description = "Developer + Competitive Programmer"
+    description = "Full Stack Developer"
     githubUsername = "bkhanale"
     accent = "teal"
     showBorder = false
     font = "Roboto Mono"
-    highlightLanguages = ["go", "julia"]
+    highlightLanguages = ["python", "go", "julia"]
     js = ["js/dark-switch.js",]
 
 [markup]
@@ -55,8 +55,3 @@ googleAnalytics = "UA-165070744-1"
     url = "https://www.linkedin.com/in/bhushan-khanale/"
     name = "linkedin"
     weight = 4
-
-[[menu.icon]]
-    url = "https://github.com/bkhanale/resume/raw/master/bhushan_resume.pdf"
-    name = "file-pdf-o"
-    weight = 5
