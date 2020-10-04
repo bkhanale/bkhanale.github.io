@@ -1,3 +1,1 @@
-# bkhanale.github.io
-
-This is an old site, please checkout https://github.com/bkhanale/portfolio.
+This is where you'd find source for my new portfolio site.
